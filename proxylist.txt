@@ -41,7 +41,7 @@
 *://*.amazon.com/*
 
 #pornhub
-*://*.pornhub.org/*
+*://*.pornhub.com/*
 
 #bbc
 
