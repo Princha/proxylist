@@ -7,7 +7,7 @@
 
 [Wildcard]
 
-# search engine
+# top website
 
 ## google
 *://*.google.com/*
@@ -22,10 +22,24 @@
 *://*.googlesyndication.com/*
 *://*.ggpht.com/*
 
-#social media
+*://*.wikipedia.org/*
+
+*://gist.github.com/*
+
+*://*.yahoo.com/*
+
+*://*.amazon.com/*
+
+*://*.flickr.com/*
+
+*://*.sina.com/*
+*://*.sina.com.*/*
+
+# social media
 *://*.facebook.com/*
 
 *://*.twitter.com/*
+*://*.twimg.com/*
 
 *://*.instagram.com/*
 
@@ -45,16 +59,13 @@
 *://*.quora.com/*
 *://*.reddit.com/*
 
+# media
+*://*.nextmedia.com/*
+
+# 
+
 # other
-*://*.wikipedia.org/*
 
-*://gist.github.com/*
-
-*://*.yahoo.com/*
-
-*://*.amazon.com/*
-
-*://*.sina.com.*/*
 
 # porn
 
@@ -62,10 +73,5 @@
 *://*.pornhub.com/*
 *://*.phncdn.com/*
 *://*.trafficjunky.net/*
-
-#bbc
-
-#nextmedia
-*://*.nextmedia.com/*
 
 #END
