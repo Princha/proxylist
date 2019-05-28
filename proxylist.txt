@@ -27,6 +27,7 @@
 *://gist.github.com/*
 
 *://*.yahoo.com/*
+*://*.yimg.com/*
 
 *://*.amazon.com/*
 
