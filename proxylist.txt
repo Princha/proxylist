@@ -42,6 +42,8 @@
 
 #pornhub
 *://*.pornhub.com/*
+*://*.phncdn.com/*
+*://*.trafficjunky.net/*
 
 #bbc
 
