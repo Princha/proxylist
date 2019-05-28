@@ -7,12 +7,13 @@
 
 [Wildcard]
 
-#google
+# search engine
+
+## google
 *://*.google.com/*
 *://*.google.com.*/*
 *://*.google.co.*/*
 
-#google other
 *://*.gstatic.com/*
 *://*.googleapis.com/*
 *://*.doubleclick.net/*
@@ -21,26 +22,43 @@
 *://*.googlesyndication.com/*
 *://*.ggpht.com/*
 
-#facebook
+#social media
 *://*.facebook.com/*
 
-#twitter
 *://*.twitter.com/*
 
-#youtube
+*://*.instagram.com/*
+
+*://*.tumblr.com/*
+
+*://*.pinterest.com/*
+
+# video
 *://*.youtube.com/*
 *://*.googlevideo.com/*
 
-#wikipedia
+# discussion
+*://*.hkiforum.net/*
+*://*.discuss.com.hk/*
+*://*.hkgolden.com/*
+*://*.ptt.cc/*
+*://*.quora.com/*
+*://*.reddit.com/*
+
+# other
 *://*.wikipedia.org/*
 
-#yahoo
+*://gist.github.com/*
+
 *://*.yahoo.com/*
 
-#amazon
 *://*.amazon.com/*
 
-#pornhub
+*://*.sina.com.*/*
+
+# porn
+
+## pornhub
 *://*.pornhub.com/*
 *://*.phncdn.com/*
 *://*.trafficjunky.net/*
