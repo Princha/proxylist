@@ -35,8 +35,10 @@
 *://*.wikipedia.org/*
 
 #yahoo
+*://*.yahoo.com/*
 
 #amazon
+*://*.amazon.com/*
 
 #pornhub
 *://*.pornhub.org/*
