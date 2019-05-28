@@ -9,11 +9,14 @@
 
 
 *://*.google.com/*
+*://*.google.com.*/*
+*://*.google.co.*/*
 
 *://*.gstatic.com/*
 *://*.googleapis.com/*
 *://*.doubleclick.net/*
 *://*.ytimg.com/*
+*://*.googleusercontent.com/*
 *://*.googlesyndication.com/*
 *://*.ggpht.com/*
 
