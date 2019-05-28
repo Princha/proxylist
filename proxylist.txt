@@ -37,9 +37,11 @@
 
 # social media
 *://*.facebook.com/*
+*://*.fbcdn.net/*
 
 *://*.twitter.com/*
 *://*.twimg.com/*
+*://*.t.co/*
 
 *://*.instagram.com/*
 
