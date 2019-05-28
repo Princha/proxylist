@@ -7,14 +7,28 @@
 
 [Wildcard]
 
+# google
 *://*.google.com/*
 
+# google other
+*://*.gstatic.com/*
+*://*.googleapis.com/*
+*://*.doubleclick.net/*
+*://*.ytimg.com/*
+*://*.googlesyndication.com/*
+*://*.ggpht.com/*
+
+# facebook
 *://*.facebook.com/*
 
+# twitter
 *://*.twitter.com/*
 
+# youtube
 *://*.youtube.com/*
+*://*.googlevideo.com/*
 
+# wikipedia
 *://*.wikipedia.org/*
 
 #END
