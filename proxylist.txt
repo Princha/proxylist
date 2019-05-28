@@ -7,11 +7,12 @@
 
 [Wildcard]
 
-
+#google
 *://*.google.com/*
 *://*.google.com.*/*
 *://*.google.co.*/*
 
+#google other
 *://*.gstatic.com/*
 *://*.googleapis.com/*
 *://*.doubleclick.net/*
@@ -20,17 +21,22 @@
 *://*.googlesyndication.com/*
 *://*.ggpht.com/*
 
-
+#facebook
 *://*.facebook.com/*
 
-
+#twitter
 *://*.twitter.com/*
 
-
+#youtube
 *://*.youtube.com/*
 *://*.googlevideo.com/*
 
-
+#wikipedia
 *://*.wikipedia.org/*
+
+#bbc
+
+#nextmedia
+*://*.nextmedia.com/*
 
 #END
