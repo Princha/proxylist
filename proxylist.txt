@@ -81,12 +81,6 @@
 
 *://*.azureedge.net/*
 
-*://*.whatsapp.com/*
-
-*://*.whatsapp.com/*
-
-*://*.whatsapp.com/*
-
 
 
 # online chat
