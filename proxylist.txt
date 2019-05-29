@@ -2,13 +2,13 @@
 ; Author: Mhd Hejazi (my@email)
 ; Date: 2010-01-20
 ; URL: http://samabox.com/projects/chrome/switchy/switchyrules.txt
+; Source: Wikipedia
 
 #BEGIN
 
 [Wildcard]
 
 # top website
-
 ## google
 *://*.google.com/*
 *://*.google.com.*/*
@@ -22,19 +22,28 @@
 *://*.googlesyndication.com/*
 *://*.ggpht.com/*
 
+## wikipedia
 *://*.wikipedia.org/*
 
+## github
 *://gist.github.com/*
 
+## yahoo
 *://*.yahoo.com/*
 *://*.yimg.com/*
 
+## amazon
 *://*.amazon.com/*
+*://*.amazon.co.*/*
 
+## flickr
 *://*.flickr.com/*
 
+## sina oversea
 *://*.sina.com/*
 *://*.sina.com.*/*
+
+
 
 # social media
 *://*.facebook.com/*
@@ -50,31 +59,235 @@
 
 *://*.pinterest.com/*
 
+
+
 # video
 *://*.youtube.com/*
 *://*.googlevideo.com/*
 
+*://*.vimeo.com/*
+
+*://*.twitch.tv/*
+
+*://*.nicovideo.jp/*
+
+
+# cloud service
+*://*.dropbox.com/*
+*://*.dropboxusercontent.com/*
+
+*://*.akamai.com/*
+*://*.akamai.net/*
+
+*://*.azureedge.net/*
+
+*://*.whatsapp.com/*
+
+*://*.whatsapp.com/*
+
+*://*.whatsapp.com/*
+
+
+
+# online chat
+*://*.whatsapp.com/*
+
+*://*.line.me/*
+
+*://*.snapchat.com/*
+
+*://*.telegram.org/*
+
+*://*.messenger.com/*
+
+*://*.kakaocorp.com/*
+
+*://*.viber.com/*
+
+
+# blog
+*://*.blogger.com/*
+*://*.wordpress.com/*
+*://*.pixnet.net/*
+
 # discussion
+*://*.fc2.com/*
 *://*.hkiforum.net/*
 *://*.discuss.com.hk/*
 *://*.hkgolden.com/*
 *://*.ptt.cc/*
 *://*.quora.com/*
 *://*.reddit.com/*
+*://*.plurk.com/*
 
 # media
-*://*.nextmedia.com/*
+## us media
+### bloomberg
+*://*.bloomberg.com/*
+*://*.bloomberg.in/*
+*://*.bloomberg.cn/*
+*://*.bbwhk.com/*
 
-# 
+### new york times
+*://*.nytimes.com/*
+*://*.tmagazine.com/*
+
+### wall street journal
+*://*.wsj.com/*
+*://*.wsjhk.com/*
+*://*.wsj.net/*
+
+*://*.time.com/*
+
+*://*.hbo.com/*
+
+## hk media
+### rthk
+*://*.rthk.hk/*
+*://*.etvonline.hk/*
+
+*://*.881903.com/*
+
+*://*.i-cable.com/*
+
+*://*.now.com/*
+
+*://*.thestandard.com.hk/*
+
+*://*.on.cc/*
+
+*://*.singpao.com.hk/*
+
+*://*.hkej.com/*
+
+### mingpao
+*://*.mingpao.com/*
+*://*.mingpaocanada.com/*
+*://*.mingpaovan.com/*
+*://*.mingpaotor.com/*
+*://*.mingpaony.com/*
+*://*.mingshengbao.com/*
+
+*://*.yzzk.com/*
+
+### next digital
+*://*.nextdigital.com.hk/*
+*://*.twnextdigital.com/*
+*://*.nextmedia.com/*
+*://*.appledaily.com/*
+*://*.appledaily.com.hk/*
+
+*://*.am730.com.hk/*
+
+*://*.theinitium.com/*
+
+*://*.bastillepost.com/*
+
+*://*.post852.com/*
+
+*://*.hk01.com/*
+
+*://*.scmp.com/*
+
+*://*.hket.com/*
+
+## tw media
+### next digital
+*://*.nextmag.com.tw/*
+*://*.sharpdaily.tw/*
+
+## singaport and malaysia media
+
+
+## japan media
+*://*.yomiuri.co.jp/*
+
+*://*.nikkei.com/*
+
+*://*.japantimes.co.jp/*
+
+*://*.jiji.com/*
+
+## international media
+*://*.reuters.com/*
+
+*://*.bbc.com/*
+
+*://*.economist.com/*
+
+*://*.rnw.nl/*
+
+*://*.dw.com/*
+
+*://*.rfa.org/*
+
+*://*.rferl.org/*
+
+*://*.rcinet.ca/*
+
+*://*.rfi.fr/*
+
+*://*.abc.net.au/*
+
+*://*.voachinese.com/*
+
+## other media
 
 # other
+*://*.duckduckgo.com/*
+
+*://*.wikia.org/*
+
+*://*.wikileaks.org/*
+
+*://*.w3schools.com/*
+
+*://*.sourceforge.net/*
+
+*://*.pchome.com.tw/*
+
+*://*.9gag.com/*
+
+*://*.duckduckgo.com/*
 
 
 # porn
 
 ## pornhub
+*://*.brazzers.com/*
+
+*://*.pornmd.com/*
+
+*://*.realitykings.com/*
+
+*://*.seancody.com/*
+
+*://*.men.com/*
+
+*://*.digitalplayground.com/*
+
+*://*.mofos.com/*
+
+*://*.babes.com/*
+
+*://*.twistys.com/*
+
 *://*.pornhub.com/*
 *://*.phncdn.com/*
 *://*.trafficjunky.net/*
+
+*://*.sextube.com/*
+
+*://*.wickedpictures.com/*
+
+*://*.xtube.com/*
+
+*://*.livejasmin.com/*
+
+*://*.pornotube.com/*
+
+*://*.playboytv.com/*
+
+*://*.whichav.com/*
 
 #END
