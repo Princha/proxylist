@@ -84,6 +84,9 @@
 
 *://*.azureedge.net/*
 
+*://*.pinimg.com/*
+
+*://*.trafficmanager.net/*
 
 
 # online chat
