@@ -47,6 +47,7 @@
 
 # social media
 *://*.facebook.com/*
+*://*.facebook.net/*
 *://*.fbcdn.net/*
 
 *://*.twitter.com/*
@@ -61,7 +62,7 @@
 
 
 
-# video
+# audio and video
 *://*.youtube.com/*
 *://*.googlevideo.com/*
 
@@ -70,6 +71,8 @@
 *://*.twitch.tv/*
 
 *://*.nicovideo.jp/*
+
+*://*.kkbox.com/*
 
 
 # cloud service
