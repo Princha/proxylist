@@ -117,6 +117,7 @@
 *://*.hkgolden.com/*
 *://*.ptt.cc/*
 *://*.quora.com/*
+*://*.quoracdn.net/*
 *://*.reddit.com/*
 *://*.plurk.com/*
 
