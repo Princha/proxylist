@@ -57,6 +57,7 @@
 *://*.t.co/*
 
 *://*.instagram.com/*
+*://*.cdninstagram.com/*
 
 *://*.tumblr.com/*
 
