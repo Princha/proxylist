@@ -241,6 +241,7 @@
 *://*.duckduckgo.com/*
 
 *://*.wikia.org/*
+*://*.adsrvr.org/*
 
 *://*.wikileaks.org/*
 
