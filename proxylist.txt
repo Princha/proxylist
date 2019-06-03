@@ -43,7 +43,7 @@
 
 ## sina oversea
 *://*.sina.com/*
-*://*.sina.com.*/*
+*://*.sina.com.hk/*
 
 
 
