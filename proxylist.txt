@@ -180,6 +180,7 @@
 *://*.nextmedia.com/*
 *://*.appledaily.com/*
 *://*.appledaily.com.hk/*
+*://*.appledaily.hk/*
 
 *://*.am730.com.hk/*
 
