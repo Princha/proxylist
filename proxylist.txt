@@ -51,6 +51,7 @@
 *://*.facebook.com/*
 *://*.facebook.net/*
 *://*.fbcdn.net/*
+*://*.fbsbx.com/*
 
 *://*.twitter.com/*
 *://*.twimg.com/*
