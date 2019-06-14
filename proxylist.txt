@@ -184,6 +184,8 @@
 *://*.appledaily.com.hk/*
 *://*.appledaily.com.tw/*
 *://*.appledaily.hk/*
+*://*.crwdcntrl.net/*
+*://*.omoplanet.com/*
 
 *://*.am730.com.hk/*
 
