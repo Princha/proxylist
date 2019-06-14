@@ -91,6 +91,8 @@
 
 *://*.trafficmanager.net/*
 
+*://*.bit.ly/*
+
 
 # online chat
 *://*.whatsapp.com/*
