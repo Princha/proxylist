@@ -153,6 +153,8 @@
 *://*.rthk.hk/*
 *://*.etvonline.hk/*
 
+*://*.tvb.com/*
+
 *://*.881903.com/*
 
 *://*.i-cable.com/*
